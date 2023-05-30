@@ -1,0 +1,2 @@
+Standard Deviation: 15.693690961657168
+Percentage of result that is among 468 to 531 successes: 96.0%
